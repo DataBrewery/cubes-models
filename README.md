@@ -1,4 +1,5 @@
 cubes-models
 ============
 
-Basic collection of cubes models
+Collection of basic cubes models.
+
